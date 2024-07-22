@@ -1,7 +1,7 @@
 {
-"bot_token": "MTI2NDY0Mzk5NjQ4NDEwODQwOQ.Gd-hho.fA6Jnk3EuS8VhHYrg_h0bdePSGi5mWR2DtKUc4",
 "prefix": "$",
 "channelnames": "Axe Runs Cord",
 "rolenames": "AXES RUNS CORD",
 "spam_text": ["@everyone Axes Runs Cord", "@everyone Boom! Get Nuked", "@everyone Axes Are Cool", "@everyone Beamed"]
+  bot.run(os.getenv('DISCORD_BOT_TOKEN'))
 }
